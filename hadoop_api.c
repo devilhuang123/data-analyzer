@@ -8,3 +8,7 @@ int main () {
 getHadoop(){
    // get hadoop
 }
+
+setHadoop(){
+   // set hadoop
+}
