@@ -1,6 +1,6 @@
 void computing() {
 
 //data
-//implement algorithm
+// implement algorithm version 2
 
 }
